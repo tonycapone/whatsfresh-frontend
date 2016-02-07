@@ -1,0 +1,45 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": ".tmp/typings",
+  "bundle": ".tmp/typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular-sanitize.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "restangular/restangular.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "angular-ui-bootstrap/angular-ui-bootstrap.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "717a5fdb079f8dd7c19f1b22f7f656dd990f0ccf"
+    },
+    "karma-jasmine/karma-jasmine.d.ts": {
+      "commit": "717a5fdb079f8dd7c19f1b22f7f656dd990f0ccf"
+    },
+    "moment/moment.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    }
+  }
+}
